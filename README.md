@@ -1,4 +1,4 @@
-This project focuses on creating a predictive model that detects likely machine failures in a manufacturing environment. The company produces high-precision metal components used in aerospace, automotive, and medical device applications. The challenge is to minimize machine downtime, which directly impacts production deadlines.
+This project focuses on creating a predictive model that detects likely machine failures in a manufacturing environment. The company produces high-precision metal components used in aerospace, automotive, and medical device applications. The aim is to minimize machine downtime, which directly impacts production deadlines.
 
 # Project Objective
 Predictive Model: Train a predictive model using machine operational data to forecast machine failure.
@@ -23,8 +23,8 @@ Model Summary: Provide a summary of the model's performance.
 Key Findings: Highlight the most important features for predicting machine failure.
 Machine-specific Analysis: Discuss whether modeling each machine separately improves prediction accuracy.
 ### Requirements
-Python 3.x
-Pandas
-Scikit-learn
+- Python 3.x
+- Pandas
+- Scikit-learn
 Matplotlib / Seaborn for visualization
 Jupyter Notebook (optional)
